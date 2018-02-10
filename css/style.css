@@ -1,0 +1,39 @@
+body{
+    background-color:yellow;
+    text-align:center;
+}
+#lista{
+    list-style: none;
+    font-size:20px;
+    color:blue;
+}
+#meniu a{
+    color:red;
+    text-decoration: none;
+}
+#meniu a:hover{
+    text-transform:uppercase;
+}
+#buton{
+    text-transform: uppercase;
+    background-color: red;
+}
+#s1{
+    border:1px solid red;
+    width:300px;
+    float:left;
+    padding:10px;
+}
+#s2{
+    border:1px solid red;
+    width:300px;
+    float:left;
+    padding:10px;
+}
+#clear{
+    clear:both;
+}
+#continut{
+    width:644px;
+    margin:auto;
+}
